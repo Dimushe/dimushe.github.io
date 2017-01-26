@@ -153,7 +153,7 @@ header>p {
 
 article {
 	max-width:900px;/*задаем ширину артиклм аксимальную и делает его резиновым*/
-	margin:o auto;/*центрируем его*/
+	margin:0 auto;/*центрируем его*/
 	padding:50px 20px;
 }
 
